@@ -1,4 +1,4 @@
-Best-Wings Airlines' Customer-Satisfaction Prediction**
+Best-Wings Airlines' Customer-Satisfaction Prediction
 
 This repository contains Python code to predict whether a customer is satisfied or not about Best-Wings Airlines' (hypothetical company) services. Tasks performed and insights are detailed inside Markdown cells in the file.
 
